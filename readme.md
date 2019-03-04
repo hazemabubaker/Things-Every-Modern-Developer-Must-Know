@@ -1,4 +1,4 @@
-[](# Things Every Modern Web Developer Must Know
+# Things Every Modern Web Developer Must Know
 
 ## Comunity (The most popular web development community sites)
 * [DEV.TO](https://dev.to/)
@@ -75,6 +75,4 @@
 
 * **DevOps**: DevOps is a combination of software development (Dev) and information technology operations (Ops). DevOps is a set of software development practices that aim to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives.
   
-* **Learn how to research**  
-
-)
+* **Learn how to research** 
